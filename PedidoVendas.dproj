@@ -121,7 +121,7 @@
             <FormType>dfm</FormType>
             <DesignClass>TDataModule</DesignClass>
         </DCCReference>
-        <DCCReference Include="uFrmItemPedido.pas">
+        <DCCReference Include="Fontes\uFrmItemPedido.pas">
             <Form>frmItemPedido</Form>
             <FormType>dfm</FormType>
         </DCCReference>

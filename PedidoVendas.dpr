@@ -7,7 +7,7 @@ uses
   Rec.Conexao in 'Fontes\Rec\Rec.Conexao.pas',
   uPedidoVenda in 'Fontes\uPedidoVenda.pas' {frmPedidoVenda},
   uDmPedidoVendas in 'Fontes\uDmPedidoVendas.pas' {dmPedido: TDataModule},
-  uFrmItemPedido in 'uFrmItemPedido.pas' {frmItemPedido},
+  uFrmItemPedido in 'Fontes\uFrmItemPedido.pas' {frmItemPedido},
   Rec.Produto in 'Fontes\Rec\Rec.Produto.pas';
 
 {$R *.res}
